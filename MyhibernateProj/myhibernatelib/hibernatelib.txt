@@ -1,0 +1,11 @@
+
+ojdbc14.jar
+hibernate3.jar
+antlr-2.7.6.jar
+commons-collections-3.1.jar
+dom4j-1.6.1.jar
+slf4j-simple-1.5.6.jar
+jta-1.1.jar
+javassist-3.4.GA.jar
+slf4j-log4j12-1.5.6.jar
+slf4j-api-1.5.6.jar

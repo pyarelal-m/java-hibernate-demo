@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Manjiri/workspace/MyhibernateProj/myhibernatelib/slf4j-simple-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Manjiri/workspace/MyhibernateProj/myhibernatelib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Manjiri/workspace/MyhibernateProj/myhibernatelib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Manjiri/workspace/MyhibernateProj/myhibernatelib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Manjiri/workspace/MyhibernateProj/myhibernatelib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Manjiri/workspace/MyhibernateProj/myhibernatelib/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Manjiri/workspace/MyhibernateProj/myhibernatelib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Manjiri/workspace/MyhibernateProj/myhibernatelib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Manjiri/workspace/MyhibernateProj/myhibernatelib/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Manjiri/workspace/MyhibernateProj/myhibernatelib/slf4j-log4j12-1.5.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
